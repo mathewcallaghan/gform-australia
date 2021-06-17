@@ -26,7 +26,7 @@ if ( ! defined( 'WPINC' ) ) {
 function australian_address_type( $address_types ) {
 
     $address_types['australia'] = array(
-        'label'       => 'Australian',
+        'label'       => 'Australia',
         'country'     => 'Australia',
         'zip_label'   => 'Postcode',
         'state_label' => 'State',
