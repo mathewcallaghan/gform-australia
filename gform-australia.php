@@ -8,7 +8,7 @@
  * Plugin Name:       Gform Australia
  * Plugin URI:        https://github.com/mathewcallaghan/gform-australia
  * Description:       This plugin adds an Australian address type.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Mathew Callaghan
  * Author URI:        https://mathew.callaghan.xyz/
  * License:           GPL-3.0+
